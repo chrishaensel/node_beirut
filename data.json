@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "country_iso": "LB",
+  "country": "Lebanon",
+  "name": "Beirut",
+  "alternative_name": "Beyrouth",
+  "local_name": "بَيْرُوت",
+  "phone_country_code": "+961",
+  "local_phone_codes": {
+    "Antelias": "+961-4",
+    "Baabda": "+961-5",
+    "Beirut": "+961-1",
+    "Jezine": "+961-7",
+    "Jounieh": "+961-9",
+    "Saida": "+961-7",
+    "Tripoli": "+961-6",
+    "Zahle": "+961-8",
+    "Mobile Phones - Cellis": "+961-3,70",
+    "Mobile Phones - Libancell": "+961-3,70"
+  },
+  "currency" : "Lebanese Pound",
+  "currency_code" : "LBP",
+  "population" : "4125247",
+  "area" : "10400 km2",
+  "position": {
+    "lat": "33.871944",
+    "lng": "35.509722"
+  }
+}
