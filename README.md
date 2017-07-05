@@ -18,9 +18,13 @@ const data = beirut.getData()
 
 ####Get current weather data
 ```
-const beirut = require('beirut)
-const weather = beirut.getWeather(function(wx) {
-    console.log(wx)
-})
+const beirut = require('beirut')
+const weather = beirut.getWeather()
+weather.then(function (current_weather) {
+        console.log(current_weather)
+    },
+    function (error) {
+        console.log(error)
+    })
 ```
 
