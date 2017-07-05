@@ -1,6 +1,6 @@
 {
   "name": "beirut",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Node module for everything about Beirut, Lebanon",
   "main": "index.js",
   "scripts": {
