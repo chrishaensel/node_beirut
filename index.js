@@ -1,4 +1,4 @@
-var weather = require('weather-js');
+const weather = require('weather-js');
 
 module.exports = {
 
@@ -6,7 +6,7 @@ module.exports = {
      * get country data
      */
     getData: function () {
-        var data = require('./data.json') // data : [country : [cities]]
+        const data = require('./data.json') // data : [country : [cities]]
         return data
     },
     /**

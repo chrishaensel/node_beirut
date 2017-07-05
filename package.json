@@ -10,6 +10,10 @@
     "beirut",
     "lebanon"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrishaensel/node_beirut"
+  },
   "author": "Christian Haensel <chris@chaensel.de>",
   "license": "ISC",
   "dependencies": {
