@@ -1,5 +1,5 @@
 {
-  "name": "chrishaensel/beirut",
+  "name": "chrishaensel/node_beirut",
   "version": "1.4.2",
   "description": "Node module for everything about Beirut, Lebanon",
   "main": "index.js",
